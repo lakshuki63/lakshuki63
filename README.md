@@ -212,6 +212,12 @@ https://www.linkedin.com/in/lakshuki-hatwar-a80090324
  **Art Profile:**  
 https://www.instagram.com/anamikaaa_art
 
+<div align="center">
+
+<img src="banner.jpg" width="100%" height="400" style="object-fit:cover;" alt="Original artwork by Lakshuki Hatwar"/>
+
+<br/>
+
 </div>
 
 ---
