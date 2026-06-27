@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="spider.jpg" width="100%" height="300" style="object-fit:cover;" alt="Original Spider-Man artwork by Lakshuki Hatwar"/>
+<img src="spider.jpg" width="100%" height="400" style="object-fit:cover;" alt="Original Spider-Man artwork by Lakshuki Hatwar"/>
 
 <br/>
 
