@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hi, I'm Lakshuki Hatwar 
+# Hi, I'm Lakshuki Hatwar  (～￣▽￣)～
 
 ### B.Tech CSE (AI & ML) Student at IIIT Nagpur
 
@@ -162,9 +162,7 @@ A full-stack parking management application that helps users discover and reserv
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- LangChain & Agentic AI
-- MLOps Fundamentals
-- Advanced Machine Learning
+- MLOps 
 - AI System Design
 
 ---
