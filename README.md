@@ -12,7 +12,7 @@
 
 <br/>
 
-*The banner above is an original Spider-Man artwork created by me.*
+
 
 </div>
 
