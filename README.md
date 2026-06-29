@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="spider.jpg" width="100%" alt="Original Spider-Man artwork by Lakshuki Hatwar"/>
+<img src="spider.jpg" width="100%" height="400" style="object-fit:cover;" alt="Original Spider-Man artwork by Lakshuki Hatwar"/>
 
 <br/>
 
-# Hi, I'm Lakshuki Hatwar 👋
+# Hi, I'm Lakshuki Hatwar  (～￣▽￣)～
 
 ### B.Tech CSE (AI & ML) Student at IIIT Nagpur
 
@@ -12,30 +12,30 @@
 
 <br/>
 
-*The banner above is an original Spider-Man artwork created by me.*
+
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 I'm currently pursuing my B.Tech in **Computer Science and Engineering (AI & ML)** at **IIIT Nagpur**.
 
-I enjoy building projects that combine artificial intelligence with practical software engineering. My interests include **Machine Learning, Deep Learning, Computer Vision, Large Language Models**, and developing full-stack AI applications.
+I enjoy building projects that combine artificial intelligence with practical software engineering. My interests include **Machine Learning, Deep Learning, Large Language Models**, and developing full-stack AI applications.
 
 Outside coding, I spend a lot of time drawing and painting. Art has taught me patience, observation, and attention to detail—qualities that also influence how I approach software development.
 
 
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🐋 RA-WOA
+###  RA-WOA
 
 **Reinforcement-Adaptive Whale Optimization Algorithm**
 
@@ -55,7 +55,7 @@ An enhanced Whale Optimization Algorithm that combines adaptive search strategie
 
 <td width="50%" valign="top">
 
-### 🚀 Icarus-X
+###  Icarus-X
 
 **AI-Powered Space Weather Forecasting**
 
@@ -79,7 +79,7 @@ A machine learning platform for forecasting space weather events with an interac
 
 <td width="50%" valign="top">
 
-### 🧳 Pravah
+###  Pravah
 
 **AI Travel Planner**
 
@@ -99,7 +99,7 @@ An AI-powered travel planning platform that generates personalized itineraries u
 
 <td width="50%" valign="top">
 
-### 🅿️ Parkify
+### Parkify
 
 **Smart Parking Management System**
 
@@ -123,7 +123,7 @@ A full-stack parking management application that helps users discover and reserv
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -158,23 +158,21 @@ A full-stack parking management application that helps users discover and reserv
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- LangChain & Agentic AI
-- MLOps Fundamentals
-- Advanced Machine Learning
+- MLOps 
 - AI System Design
 
 ---
 
-# 🎨 Beyond Coding
+#  Beyond Coding
 
 Drawing and painting are a big part of who I am. Whether it's digital illustrations or traditional artwork, I enjoy creating things from scratch—the same mindset I bring to software development.
 
 You can find some of my artwork on Instagram:
-**🎨 @anamikaaa_art**
+** @anamikaaa_art**
 
 ---
 
@@ -182,7 +180,7 @@ You can find some of my artwork on Instagram:
 
 ---
 
-# 📬 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -204,21 +202,24 @@ You can find some of my artwork on Instagram:
 
 <div align="center">
 
-📧 **lakshukihatwar@gmail.com**
+**lakshukihatwar@gmail.com**
 
-💼 **LinkedIn:**  
+**LinkedIn:**  
 https://www.linkedin.com/in/lakshuki-hatwar-a80090324
 
-🎨 **Art Profile:**  
+ **Art Profile:**  
 https://www.instagram.com/anamikaaa_art
+
+<div align="center">
+
+<img src="banner.jpg" width="100%" height="400" style="object-fit:cover;" alt="Original artwork by Lakshuki Hatwar"/>
+
+<br/>
 
 </div>
 
 ---
 
-
-
-*"Keep Learning. Keep Building. Keep Creating."*
 
 </div>
 
